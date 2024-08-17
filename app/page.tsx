@@ -12,6 +12,7 @@ export default function Home() {
       <Hero />
       <FeatureTwo />
       <FooterFour />
+      <SpeedInsights/>
     </Main>
   );
 }
